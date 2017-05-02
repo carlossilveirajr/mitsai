@@ -1,0 +1,9 @@
+.cproject
+.project
+out
+.idea
+madHatter.iml
+target
+jFeatureLib.log
+sqliteTestFile.db
+classes

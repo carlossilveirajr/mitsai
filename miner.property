@@ -1,0 +1,4 @@
+database=MONGO
+address=localhost:27017
+input=sunspot:surf_small
+output=sunspot:rules_small
